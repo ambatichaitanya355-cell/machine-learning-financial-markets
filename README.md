@@ -1,3 +1,4 @@
+#Status: Academic coursework project | Ongoing learning and refinement
 # machine-learning-financial-markets
 Academic project applying machine learning techniques to Indian financial market data
 # Machine Learning Applications in Financial Markets
